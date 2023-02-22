@@ -6,4 +6,4 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 ## LEVEL 2 - TASK 3 - TODO WEB APP  [ [ Click Here ] ](https://imsubhajit98.github.io/OIBSIP-Todo-Web-App/)
 A Todo Web App created under the virtual internship program of Oasis Infobyte. <br>
 
-### Skill - HTML, CSS, JavaScript, CRUD Oparation Localstorage with Full Responsive any device like Mobile, IPad etc.
+### Skill - HTML, CSS, JavaScript, CRUD Oparation Localstorage with Full Responsive any device like Mobile, iPad etc.
