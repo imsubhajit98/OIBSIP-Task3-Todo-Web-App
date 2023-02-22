@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo Web App</title>
+    <link rel="icon" type="image/x-icon" href="logo.png">
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+      integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Alata&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <header>Todo Web App<img src="logo.png" alt="" height="35" width="40" id="icon"></header>
+      <div class="inputField">
+        <input type="text" placeholder="Add your new todo" />
+        <button>
+          <span><i class="fas fa-plus"></i></span>
+        </button>
+      </div>
+      <ul class="todoList">
+        <!-- Data comes from local storage -->
+
+        <!-- 
+            <li>Buy a new gaming laptop<span><i class="fas fa-trash"></i></span></li>
+            <li>Morning excersize<span><i class="fas fa-trash"></i></span></li>
+            <li>create a portfolio using html, css and js<span><i class="fas fa-trash"></i></span></li>
+            <li>Go to market and travel shop<span><i class="fas fa-trash"></i></span></li> -->
+      </ul>
+      <div class="footer">
+        <span>You have <span class="pendingNum"></span> pending tasks</span>
+        <button>Clear All</button>
+      </div>
+      <h6>Made By <a href="https://www.linkedin.com/in/imsubhajit98/"> <img src="linkdin.png" alt="" height="20" width="20" id="icon"></a></h6>
+    </div>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
