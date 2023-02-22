@@ -7,9 +7,6 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 A Todo Web App created under the virtual internship program of Oasis Infobyte. <br>
 
 
-https://user-images.githubusercontent.com/74090703/220637724-12631a56-7b37-4423-8239-b2dbf7e69c03.mp4
-
-
 ### Skill - HTML, CSS, JavaScript, CRUD Oparation Localstorage with Full Responsive any device like Mobile, iPad etc.
 
 ![image](https://user-images.githubusercontent.com/74090703/220637494-d3cc026c-18a5-4fd8-b201-bbda374644da.png)
